@@ -15,7 +15,9 @@ Pre-trained model: `model\pretrained_2x_Unet.pth`
 ## Train or test your own model
 Step 1 (optional): Download the dataset from https://github.com/IVRL/w2s and place it under the `dataset` folder.
 
-Step 1: Run `train.py` or `test.py`
+Step 2: Adjust your desired parameters. 
+
+Step 3: Run `train.py` or `test.py`
 
 ## Publication
 If you find this repository useful, please cite:

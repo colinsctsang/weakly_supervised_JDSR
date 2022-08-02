@@ -13,7 +13,7 @@ This code was tested with `Pytorch 1.10.0` and NVIDIA GeForce RTX 3080 Ti.
 Pre-trained model: `model\pretrained_2x_Unet.pth`
 
 ## Train or test your own model
-Step 1 (optional): Download the dataset from https://github.com/IVRL/w2s and place it under the `dataset` folder.
+Step 1: Download the dataset from https://github.com/IVRL/w2s and place it under the `dataset` folder.
 
 Step 2: Adjust your desired parameters. 
 

@@ -27,9 +27,9 @@ MOVI 2022
 
 
 ## Acknowledgment
-Some codes in this repository are modified from [PVT] (https://github.com/BUPTLdy/Pytorch-LapSRN)
+Some codes in this repository are modified from https://github.com/BUPTLdy/Pytorch-LapSRN
 
-The SSIM function is provided by [PVT] https://github.com/jacenfox/pytorch-msssim
+The SSIM function is provided by https://github.com/jacenfox/pytorch-msssim
 
 ###### Keywords
 Keywords: Super-resolution, Denoising, Weakly-supervised.
